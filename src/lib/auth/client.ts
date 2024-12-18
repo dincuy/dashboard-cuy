@@ -57,7 +57,7 @@ class AuthClient {
     // Make API request
 
     // We do not handle the API, so we'll check if the credentials match with the hardcoded ones.
-    if (email !== 'sofia@devias.io' || password !== 'Secret1') {
+    if (email !== 'dincuy23@gmail.com' || password !== 'sketsa') {
       return { error: 'Invalid credentials' };
     }
 
